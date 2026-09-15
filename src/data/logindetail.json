@@ -1,0 +1,18 @@
+[
+
+{
+    "username" : "wrong@opencart.commandline",
+    "password" : "wrong"
+},
+
+{
+    "username" : "invalid@opencart.commandline",
+    "password" : " "
+},
+
+{
+    "username" : "pwbatch@gmail.com",
+    "password" : "wrong123"
+}
+
+]
